@@ -1,0 +1,85 @@
+{
+  "profile": {
+    "name": "Karan Singh Thakur",
+    "title": "PHP / LAMP Stack Web Developer",
+    "email": "tkskaransinghthakur@gmail.com",
+    "github": "https://github.com/karansinghthkur",
+    "linkedin": "https://www.linkedin.com/in/karan-singh-thakur-87b930161"
+  },
+  "portfolio_version": "spider-animated-cursor-theme",
+  "note": "Spider-hero inspired theme using red/blue palette, web-line motion, and clean engineering layout. No official copyrighted logos or character artwork.",
+  "projects": [
+    {
+      "name": "Civics Fundamentals Platform Modernization",
+      "stack": [
+        "WordPress",
+        "LearnDash",
+        "PHP",
+        "MariaDB",
+        "JavaScript",
+        "WP Engine"
+      ],
+      "impact": [
+        "128 structured modules",
+        "137+ LMS steps",
+        "GA4/GTM tracking",
+        "production issue resolution"
+      ]
+    },
+    {
+      "name": "Internal Operations Workflow Portal",
+      "stack": [
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "Blade",
+        "Queues",
+        "REST APIs"
+      ],
+      "impact": [
+        "20+ REST endpoint design",
+        "RBAC",
+        "audit logs",
+        "reporting query optimization"
+      ]
+    },
+    {
+      "name": "Billing Reconciliation Dashboard",
+      "stack": [
+        "PHP",
+        "SQL",
+        "Scheduler",
+        "CSV",
+        "API Sync"
+      ],
+      "impact": [
+        "50k-row sample processing",
+        "exception reporting",
+        "retry handling",
+        "support runbooks"
+      ]
+    },
+    {
+      "name": "Operational Dashboard Prototype",
+      "stack": [
+        "React",
+        "JavaScript",
+        "REST APIs"
+      ],
+      "impact": [
+        "API-driven UI",
+        "status filters",
+        "internal workflow visibility"
+      ]
+    }
+  ],
+  "theme_features": [
+    "custom spider cursor",
+    "hanging web thread",
+    "animated web radial background",
+    "click web burst animation",
+    "red/blue superhero-inspired palette",
+    "glowing cards",
+    "soft swinging hero card"
+  ]
+}
